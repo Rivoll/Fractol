@@ -1,1 +1,1 @@
-echo "BpPGPGPo"
+echo "BpPGPGPo§"
