@@ -1,1 +1,1 @@
-echo "BpPG65o§"
+echo "B654§"
